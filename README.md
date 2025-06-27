@@ -1,0 +1,2 @@
+# Electricity_Consumption
+Plugging into the Future: An Exploration of Electricity Consumption Patterns Using Tableau
